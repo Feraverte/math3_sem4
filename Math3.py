@@ -1,3 +1,4 @@
+# pip install -r /path/to/requirements.txt
 ###БИБЛИОТЕКИ###
 
 from matplotlib import pyplot as plt
